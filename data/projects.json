@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "title": "WORLD_TOUR",
+      "imageUrl": "/",
+      "project_url": "/",
+      "description": "Mark the place you visited in this world ",
+      "tags": ["react"]
+    },
+    {
+      "title": "popcorn",
+      "imageUrl": "/",
+      "project_url": "https://ayush-11-c.github.io/popcorn/",
+      "description": "Search your favourite movies ,rate them and add them to your watch list",
+      "tags": ["react", "postgresql", "nodejs"]
+    },
+    {
+      "title": "Omnifood",
+      "imageUrl": "/",
+      "project_url": "https://ayush-11-c.github.io/Omnifood/",
+      "description": "front-end project for food start-up",
+      "tags": ["html", "css"]
+    },
+
+    {
+      "title": "game",
+      "imageUrl": "/",
+      "project_url": "https://ayush-11-c.github.io/game/",
+      "description": "fun learnig project",
+      "tags": ["java script"]
+    }
+  ]
+}

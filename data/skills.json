@@ -1,0 +1,25 @@
+{
+  "skill": [
+    {
+      "name": "Frontend Engineering",
+      "description": "Development of beautiful and unique user interfaces.",
+      "projects_completed": "6"
+    },
+    {
+      "name": "Dsa",
+      "description": "Knowledge of Data Structures and Algorithm",
+      "projects_completed": "*"
+    },
+    {
+      "name": "Machine Learning",
+      "description": "Intermediate knowledge of Machine Learning and Data Science",
+      "projects_completed": "1"
+    },
+
+    {
+      "name": "Backend Development",
+      "description": "Development of complex and scalable backend architecture.",
+      "projects_completed": "*"
+    }
+  ]
+}
