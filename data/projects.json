@@ -2,21 +2,21 @@
   "projects": [
     {
       "title": "WORLD_TOUR",
-      "imageUrl": "https://github-production-user-asset-6210df.s3.amazonaws.com/136771883/343139280-588b5b27-e199-4e5a-8288-b99b5592b1e9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240626T113507Z&X-Amz-Expires=300&X-Amz-Signature=de44f3b38de68a9dca76afe1697f83aa36581f66f36605b4a8266f957bd872e3&X-Amz-SignedHeaders=host&actor_id=136771883&key_id=0&repo_id=806938183",
+      "imageUrl": "https://github.com/ayush-11-c/WORLD_TOUR/assets/136771883/588b5b27-e199-4e5a-8288-b99b5592b1e9",
       "project_url": "world-tour-c1iyiwcd5-ayush-chaturvedis-projects.vercel.app",
       "description": "Mark the place you visited in this world ",
       "tags": ["react"]
     },
     {
       "title": "popcorn",
-      "imageUrl": "https://github-production-user-asset-6210df.s3.amazonaws.com/136771883/343133937-0ba9b77e-7c4d-4675-a4a5-20c01f6e8e63.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240626T111628Z&X-Amz-Expires=300&X-Amz-Signature=435f47957b931ff9db6932488a603adba56843a271104d4c6b5a9121703b0890&X-Amz-SignedHeaders=host&actor_id=136771883&key_id=0&repo_id=779524798",
+      "imageUrl": "https://github.com/ayush-11-c/popcorn/assets/136771883/0ba9b77e-7c4d-4675-a4a5-20c01f6e8e63",
       "project_url": "https://ayush-11-c.github.io/popcorn/",
       "description": "Search your favourite movies ,rate them and add them to your watch list",
       "tags": ["react", "postgresql", "nodejs"]
     },
     {
       "title": "Omnifood",
-      "imageUrl": "https://private-user-images.githubusercontent.com/136771883/343145286-c4e0b792-5a57-4a47-9ad4-bd0c2e3e788f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0MDMyODYsIm5iZiI6MTcxOTQwMjk4NiwicGF0aCI6Ii8xMzY3NzE4ODMvMzQzMTQ1Mjg2LWM0ZTBiNzkyLTVhNTctNGE0Ny05YWQ0LWJkMGMyZTNlNzg4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyNlQxMTU2MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MzY0YmI4MWVhNzNhYjE5ODdlZmRhZjk5NGY5ZWJiMTkxZjJmZGY4NjI2OWU0YTJmNTUzYjc4MTU4ZGE0MDYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VXH1MBR1Dyyp4A9Vo3hyzJfKvXeOauCJ9zCjyObDg1c",
+      "imageUrl": "https://github.com/ayush-11-c/Omnifood/assets/136771883/c4e0b792-5a57-4a47-9ad4-bd0c2e3e788f",
       "project_url": "https://ayush-11-c.github.io/Omnifood/",
       "description": "front-end project for food start-up",
       "tags": ["html", "css"]
@@ -24,7 +24,7 @@
 
     {
       "title": "game",
-      "imageUrl": "https://private-user-images.githubusercontent.com/136771883/343137666-7ca9a93e-15a0-4b09-b738-df907abd2238.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0MDMzMzMsIm5iZiI6MTcxOTQwMzAzMywicGF0aCI6Ii8xMzY3NzE4ODMvMzQzMTM3NjY2LTdjYTlhOTNlLTE1YTAtNGIwOS1iNzM4LWRmOTA3YWJkMjIzOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyNlQxMTU3MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hN2I5NTAxN2NlZjdkMjVmY2FiZTJiODA2YjQ2N2I4MmEwZTJmOWIxZmJjODc1NTA0Njg4ZThjYzNjYTAzYjIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IjU5FA7_BCFPzES5lLl4lBETz80qIlLAhk6R5OPyqK8",
+      "imageUrl": "https://github.com/ayush-11-c/game/assets/136771883/7ca9a93e-15a0-4b09-b738-df907abd2238",
       "project_url": "https://ayush-11-c.github.io/game/",
       "description": "fun learnig project",
       "tags": ["java script"]
